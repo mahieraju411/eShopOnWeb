@@ -9,7 +9,7 @@ env:
   LOCATION:  Sweden Central
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e4a80ab2-a05d-42a9-9105-211ec8f24e0dc
-  WEBAPP-NAME: eshoponweb-webapp-223861c
+  WEBAPP-NAME: eshoponweb-webapp-2238611
 
 
 jobs:
